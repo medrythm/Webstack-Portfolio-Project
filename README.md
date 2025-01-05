@@ -32,7 +32,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/smy-shop.git
+git clone (https://github.com/medrythm/Webstack-Portfolio-Project/)
 Move the project to your web server directory (e.g., htdocs for XAMPP).
 
 #Import the database:
